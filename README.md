@@ -19,8 +19,8 @@ This  project will design a data solution for the Little Lemon Restaurant. it in
 
 tools used:
 `MySQL(Workbench)` - For developing and setup of the databsase.
-`Python` - Setting up a client and interact with the database.
-`Tableau` - Visualizatino of the data.
+`Python` - Setting up a client and interacting with the database.
+`Tableau` - Visualization of the data.
 
 ## Week 1 - Setting Up the Project
 To get your database ready, follow the steps:
