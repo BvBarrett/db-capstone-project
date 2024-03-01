@@ -40,7 +40,7 @@ After these steps, your database will be set up with all the necessary tables an
 ---
 This diagram represents the database structure for the Little Lemon restaurant's management system.  aims to translate the technical structure into business-oriented language that highlights the relevance of each part of the diagram to the client's daily operations.
 <p align="center">
-(LittleLemonDM.png)
+![LittleLemonDM](LittleLemonDM.png)
 </p>
 
 - **Staff Information**: This entity holds details about your staff members, including their roles and salaries. It's the core of your human resources data.
