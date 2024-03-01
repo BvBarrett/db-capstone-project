@@ -55,6 +55,16 @@ This diagram represents the database structure for the Little Lemon restaurant's
 Little Lemon needs to query the data in their database. To do this, they need your help with creating optimized queries using stored procedures and prepared statements.
 
 Prerequisites
+In the previous module, you developed a data model for Little Lemon and implemented it in your MySQL server. Your database should now contain several tables including the following:
+
+    Menus, 
+
+    Orders, 
+
+    MenuItems,
+
+    and Customers.
+    
 Refer to the folder for extra screenshots
 
 - `GetMaxQuantity()`
