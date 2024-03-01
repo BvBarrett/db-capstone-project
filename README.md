@@ -50,7 +50,7 @@ This diagram represents the database structure for the Little Lemon restaurant's
 - **Order Delivery Status**: For orders that are out for delivery, this entity keeps track of the delivery date and the status, ensuring you have up-to-date information on order fulfillment.
 ---
 
-## week - 2 - Storing MySQL procedures
+## Week 2 - Storing MySQL procedures
 Refer to the folder for extra screenshots
 - `GetMaxQuantity()`
 ```sql
@@ -203,4 +203,4 @@ DELIMITER ;
 #----
 CALL CancelBooking('2024-02-25 13:00:00',1);
 ```
-## week - 3 - Visualization in Tableau
+## Week 3 - Visualization in Tableau
