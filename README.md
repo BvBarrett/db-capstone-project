@@ -50,10 +50,9 @@ This diagram represents the database structure for the Little Lemon restaurant's
 - **Order Delivery Status**: For orders that are out for delivery, this entity keeps track of the delivery date and the status, ensuring you have up-to-date information on order fulfillment.
 ---
 
-## Week 2 - Create optimized queries to manage and analyze data
-Scenario 
+## Week 2 - Create Optimized Queries to Manage and Analyze Data
 
-Little Lemon need to query the data in their database. To do this, they need your help with creating optimized queries using stored procedures and prepared statements.
+Little Lemon needs to query the data in their database. To do this, they need your help with creating optimized queries using stored procedures and prepared statements.
 
 Prerequisites
 Refer to the folder for extra screenshots
