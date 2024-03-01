@@ -41,7 +41,7 @@ After these steps, your database will be set up with all the necessary tables an
 This diagram represents the database structure for the Little Lemon restaurant's management system.  aims to translate the technical structure into business-oriented language that highlights the relevance of each part of the diagram to the client's daily operations.
 
 ![LittleLemonDM](LittleLemonDM.png)
-
+ 
 - **Staff Information**: This entity holds details about your staff members, including their roles and salaries. It's the core of your human resources data.
 - **Bookings**: Here, we manage customer reservations with details about the booking time and the table number reserved. It links to both your customers and staff, showing who booked and who will be serving them.
 - **Customer Details**: This entity stores information about your customers, like their names, contact numbers, and email addresses, which is vital for your marketing and customer relationship efforts.
