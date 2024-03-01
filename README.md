@@ -67,5 +67,4 @@ In the previous module, you developed a data model for Little Lemon and implemen
     
 Refer to the folder for extra screenshots
 
-```
 ## Week 3 - Visualization in Tableau
