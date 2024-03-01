@@ -34,3 +34,17 @@ To get your database ready, follow the steps:
    - Hit `Start Import` to bring in and run the SQL commands from the file.
 
 After these steps, your database will be set up with all the necessary tables and stored procedures ready to go.
+
+
+### Entity-Relationship Diagram
+---
+This diagram represents the database structure for the Little Lemon restaurant's management system.  aims to translate the technical structure into business-oriented language that highlights the relevance of each part of the diagram to the client's daily operations.
+![LittleLemonDM]
+
+- **Staff Information**: This entity holds details about your staff members, including their roles and salaries. It's the core of your human resources data.
+- **Bookings**: Here, we manage customer reservations with details about the booking time and the table number reserved. It links to both your customers and staff, showing who booked and who will be serving them.
+- **Customer Details**: This entity stores information about your customers, like their names, contact numbers, and email addresses, which is vital for your marketing and customer relationship efforts.
+- **Orders**: This is where we track each order placed, linked to the menu, booking, and staff information. It records what was ordered, by whom, the cost, and the table number, giving you a comprehensive view of sales transactions.
+- **Menu**: It lists all the items on your menu, categorized by type of cuisine, starters, main courses, drinks, and desserts. This allows for easy updates and management of what you offer.
+- **Order Delivery Status**: For orders that are out for delivery, this entity keeps track of the delivery date and the status, ensuring you have up-to-date information on order fulfillment.
+---
