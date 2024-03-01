@@ -22,7 +22,7 @@ tools used:
 `Python` - Setting up a client and interact with the database.
 `Tableau` - Visualizatino of the data.
 
-## Week 1 - MySQL Database Setup
+## Week 1 - Setting Up the Project
 To get your database ready, follow the steps:
 
 1. **Install MySQL:** If MySQL isn't already on your computer, download and install it.
