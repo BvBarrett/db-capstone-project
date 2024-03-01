@@ -21,3 +21,17 @@ tools used:
 `MySQL(Workbench)` - For developing and setup of the databsase.
 `Python` - Setting up a client and interact with the database.
 `Tableau` - Visualizatino of the data.
+
+## week - 1 - Setup
+To get your database ready, follow the steps:
+
+1. **Install MySQL:** If MySQL isn't already on your computer, download and install it.
+2. **Get the SQL File:** Download the `LittleLemonDB.sql` file from this repository - in week-1.
+3. **Set Up in MySQL Workbench:**
+   - Open MySQL Workbench.
+   - Go to `Server` > `Data Import`.
+   - Select `Import from Self-Contained File` and choose the `LittleLemonDB.sql` file.
+   - Hit `Start Import` to bring in and run the SQL commands from the file.
+
+
+After these steps, your database will be set up with all the necessary tables and stored procedures ready to go.
