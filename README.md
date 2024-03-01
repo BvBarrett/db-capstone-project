@@ -22,7 +22,7 @@ tools used:
 `Python` - Setting up a client and interact with the database.
 `Tableau` - Visualizatino of the data.
 
-## week 1 - MySQL Database Setup
+## Week 1 - MySQL Database Setup
 To get your database ready, follow the steps:
 
 1. **Install MySQL:** If MySQL isn't already on your computer, download and install it.
@@ -32,6 +32,5 @@ To get your database ready, follow the steps:
    - Go to `Server` > `Data Import`.
    - Select `Import from Self-Contained File` and choose the `LittleLemonDB.sql` file.
    - Hit `Start Import` to bring in and run the SQL commands from the file.
-
 
 After these steps, your database will be set up with all the necessary tables and stored procedures ready to go.
