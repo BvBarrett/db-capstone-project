@@ -77,7 +77,9 @@ In this second task, you need to implement the Little Lemon data model inside yo
     Name your database LittleLemonDB. 
 
     Export the LittleLemonDB as a single contained SQL file and save it in the db-capstone-project folder.
-    
+
+### Refer to the folder for extra screenshots
+
 Task 3
 
 In the third and final task, you need to show the databases in the MySQL server. Write a SQL code inside MySQL Workbench SQL editor to show all your databases in MySQL server. Check if the Little Lemon database is included in the list.
@@ -97,6 +99,6 @@ In the previous module, you developed a data model for Little Lemon and implemen
 
     and Customers.
     
-Refer to the folder for extra screenshots
+### Refer to the folder for extra screenshots
 
 ## Week 3 - Visualization in Tableau
