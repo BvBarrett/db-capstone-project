@@ -64,8 +64,7 @@ Here is some guidance for completing this task:
 
     Define data types and constraints. 
 
-  <p align="center">![LittleLemonDM](LittleLemonDM.png
-  </p>
+![LittleLemonDM](LittleLemonDM.png)
 
 Once you have designed your ER diagram inside your MySQL Workbench Model Editor you then need to save your data model as LittleLemonDM and export it as a PNG file.
 
