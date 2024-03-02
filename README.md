@@ -33,7 +33,7 @@ To get your database ready, follow the steps:
    - Hit `Start Import` to bring in and run the SQL commands from the file.
 
 After these steps, your database will be set up with all the necessary tables and stored procedures ready to go.
-
+### Refer to the folder for extra screenshots
 
 ### Entity-Relationship Diagram
 ---
@@ -64,9 +64,8 @@ Here is some guidance for completing this task:
 
     Define data types and constraints. 
 
-![LittleLemonDM](LittleLemonDM.png)
-
 Once you have designed your ER diagram inside your MySQL Workbench Model Editor you then need to save your data model as LittleLemonDM and export it as a PNG file.
+### Refer to the folder for extra screenshots
 
 Task 2
 
@@ -77,6 +76,7 @@ In this second task, you need to implement the Little Lemon data model inside yo
     Name your database LittleLemonDB. 
 
     Export the LittleLemonDB as a single contained SQL file and save it in the db-capstone-project folder.
+### Refer to the folder for extra screenshots
 
 Task 3
 
