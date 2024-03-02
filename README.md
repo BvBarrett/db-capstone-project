@@ -77,6 +77,8 @@ In this second task, you need to implement the Little Lemon data model inside yo
     Name your database LittleLemonDB. 
 
     Export the LittleLemonDB as a single contained SQL file and save it in the db-capstone-project folder.
+    
+![LittleLemonDM](LittleLemonScript.sql)
 
 Task 3
 
