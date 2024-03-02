@@ -2,7 +2,6 @@
 
 ## About
 <p align="center">
-  <a href="https://github.com/marcoshsq/PythonPredictiveAnalytics">
     <img src="https://1000logos.net/wp-content/uploads/2021/10/logo-Meta.png" alt="Developer Roadmap" width="120" height="">
   </a>
 </p>
@@ -65,6 +64,8 @@ Here is some guidance for completing this task:
 
     Define data types and constraints. 
 
+  ![LittleLemonDM](LittleLemonDM.png) 
+
 Once you have designed your ER diagram inside your MySQL Workbench Model Editor you then need to save your data model as LittleLemonDM and export it as a PNG file.
 
 Task 2
@@ -80,8 +81,7 @@ In this second task, you need to implement the Little Lemon data model inside yo
 Task 3
 
 In the third and final task, you need to show the databases in the MySQL server. Write a SQL code inside MySQL Workbench SQL editor to show all your databases in MySQL server. Check if the Little Lemon database is included in the list.
-![LittleLemonDM](LittleLemonDM.png)
- 
+
 ## Week 2 - Create Optimized Queries to Manage and Aalyze Data
 
 Little Lemon needs to query the data in their database. To do this, they need your help with creating optimized queries using stored procedures and prepared statements.
