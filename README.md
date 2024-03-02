@@ -5,7 +5,7 @@
     <img src="https://1000logos.net/wp-content/uploads/2021/10/logo-Meta.png" alt="Developer Roadmap" width="120" height="">
   </a>
 </p>
-  <h2 align="center">Meta Database Engineer</h2>
+  <h2 align="center">Meta Database Engineer Capstone</h2>
 </div>
 
 The capstone project serves as a culmination of the specialization [meta-database-engineer](https://www.coursera.org/professional-certificates/meta-database-engineer#courses), by demonstrating the skills that constitutes designing and composing a database solution and the relevant technologies.
@@ -64,7 +64,8 @@ Here is some guidance for completing this task:
 
     Define data types and constraints. 
 
-  ![LittleLemonDM](LittleLemonDM.png) 
+  <p align="center">![LittleLemonDM](LittleLemonDM.png
+  </p>
 
 Once you have designed your ER diagram inside your MySQL Workbench Model Editor you then need to save your data model as LittleLemonDM and export it as a PNG file.
 
