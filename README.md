@@ -13,36 +13,8 @@ Tools used:
 `Python` - Setting up a client and interacting with the database.
 `Tableau` - Visualization of the data.
 
-## Week 1 - Setting Up the Project
-To get your database ready, follow the steps:
+### Refer to Week 1,2 and 3 Folders for LitteLemon Project Tasks. 
 
-1. **Install MySQL:** If MySQL isn't already on your computer, download and install it.
-2. **Get the SQL File:** Download the `LittleLemonDB.sql` file from this repository - in week-1.
-3. **Set Up in MySQL Workbench:**
-   - Open MySQL Workbench.
-   - Go to `Server` > `Data Import`.
-   - Select `Import from Self-Contained File` and choose the `LittleLemonDB.sql` file.
-   - Hit `Start Import` to bring in and run the SQL commands from the file.
-
-After these steps, your database will be set up with all the necessary tables and stored procedures ready to go.
-
-### Refer to Week 1 Folder for Tasks. 
-
-## Week 2 
-Use SQL to create virtual tables, stored procedures and prepared statements for Little Lemon restaurant.
-
-Learning Objectives:
-
-    Implement transaction procedures to manage table bookings for the Little Lemon restaurant.
-    Create SQL stored procedures to query the database and generate sales reports.
-
-## Week 3 
-Visualize the sales data of a restaurant and implement a database client in Python.
-
-Learning Objectives:
-
-         Implement a database client for Little Lemon.
-         Visualize the Little Lemon data using Tableau.
 
     
 
