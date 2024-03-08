@@ -31,7 +31,7 @@ To get your database ready, follow the steps:
    - Hit `Start Import` to bring in and run the SQL commands from the file.
 
 After these steps, your database will be set up with all the necessary tables and stored procedures ready to go.
-### Refer to the folder for extra screenshots
+### Refer "Week 1 Create an ER Diagram Data Model" folder. 
 
 ### Entity-Relationship Diagram
 ---
