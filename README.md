@@ -26,7 +26,7 @@ The capstone project serves as a culmination of the specialization [meta-databas
     • The SQL file of the Little Lemon database schema.
     • The workbook that includes all worksheets and dashboards.
 
-`Refer to Files`
+`Refer to Folders` for completed tasks and outputs. 
 
 
     
