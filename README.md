@@ -8,7 +8,7 @@
 ## Description 
 This  project will design a data solution for the Little Lemon Restaurant. it involves setting upset a database, incorporating `Stored Procedures`, A way to interact with the client and the use of visualization to communicate the data.
 
-tools used:
+Tools used:
 `MySQL(Workbench)` - For developing and setup of the databsase.
 `Python` - Setting up a client and interacting with the database.
 `Tableau` - Visualization of the data.
@@ -30,7 +30,8 @@ After these steps, your database will be set up with all the necessary tables an
 
 ## Week 2 
 Use SQL to create virtual tables, stored procedures and prepared statements for Little Lemon restaurant.
-Learning Objectives
+
+Learning Objectives:
 
     Implement transaction procedures to manage table bookings for the Little Lemon restaurant.
     Create SQL stored procedures to query the database and generate sales reports.
