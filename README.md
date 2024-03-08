@@ -13,7 +13,17 @@ Tools used:
 `Python` - Setting up a client and interacting with the database.
 `Tableau` - Visualization of the data.
 
-### Refer to Week 1,2 and 3 Folders for LitteLemon Project Tasks. 
+ final assessment criteria:
+
+• Create a database that holds the data.
+• Connect to the database using a Python client.
+• Create a procedure using Python to react to changes in the data.
+• Connect to the database using Tableau.
+• Generate data reports using Tableau.
+• Relevant diagrams and screenshots in PNG format.
+•  The data model you produced in MySQL Workbench.
+• The SQL file of the Little Lemon database schema.
+• The workbook that includes all worksheets and dashboards.
 
 
     
