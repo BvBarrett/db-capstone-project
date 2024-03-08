@@ -1,6 +1,3 @@
-# Capstone project Little Lemon Database
-
-## About
 <p align="center">
     <img src="https://1000logos.net/wp-content/uploads/2021/10/logo-Meta.png" alt="Developer Roadmap" width="120" height="">
   </a>
