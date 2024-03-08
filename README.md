@@ -14,7 +14,7 @@ The capstone project serves as a culmination of the specialization [meta-databas
     • Python - Setting up a client and interacting with the database.
     • Tableau - Visualization of the data.
 
-## Capstone Project criteria
+## Capstone Project Criteria
 
     • Create a database that holds the data.
     • Connect to the database using a Python client.
