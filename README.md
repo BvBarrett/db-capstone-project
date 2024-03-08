@@ -32,9 +32,9 @@ After these steps, your database will be set up with all the necessary tables an
 ### Entity-Relationship Diagram
 ---
 
-Little Lemon wants you to use MySQL Workbench to develop a relational database system and implement it in MySQL server. Save your database capstone project files in a folder on your machine and name it db-capstone-project.
+    Little Lemon wants you to use MySQL Workbench to develop a relational database system and implement it in MySQL server. Save your database capstone project files in a folder on your machine and name it db-capstone-          project.
 
-### Task 1
+#### Task 1
 
 In this task, you need to create a normalized ER diagram (that adheres to 1NF, 2NF and 3NF) with relevant relationships to meet the data requirements of Little Lemon. When creating your diagram, include the following tables:
 
@@ -53,20 +53,35 @@ Here is some guidance for completing this task:
 
 Once you have designed your ER diagram inside your MySQL Workbench Model Editor you then need to save your data model as LittleLemonDM and export it as a PNG file.
 
-### Task 2
+#### Task 2
 
 In this second task, you need to implement the Little Lemon data model inside your MySQL server. Here is some guidance for completing this task:
 
     Use the forward engineer method in MySQL Workbench to implement the Little Lemon datamodel inside MySQL server. 
-
     Name your database LittleLemonDB. 
-
     Export the LittleLemonDB as a single contained SQL file and save it in the db-capstone-project folder.
 
-### Task 3
+#### Task 3
 
-In the third and final task, you need to show the databases in the MySQL server. Write a SQL code inside MySQL Workbench SQL editor to show all your databases in MySQL server. Check if the Little Lemon database is included in the list.
+    In the third and final task, you need to show the databases in the MySQL server. Write a SQL code inside MySQL Workbench SQL editor to show all your databases in MySQL server. Check if the Little Lemon database is           included in the list.
 
 ### Refer to Week 1 Folder. 
+
+## Week 2 
+Use SQL to create virtual tables, stored procedures and prepared statements for Little Lemon restaurant.
+Learning Objectives
+
+    Implement transaction procedures to manage table bookings for the Little Lemon restaurant.
+    Create SQL stored procedures to query the database and generate sales reports.
+
+#### Task 1
+
+In the first task, Little Lemon need you to create a virtual table called OrdersView that focuses on OrderID, Quantity and Cost columns within the Orders table for all orders with a quantity greater than 2. 
+
+Here’s some guidance around completing this task: 
+
+    Use a CREATE VIEW statement.
+    Extract the order id, quantity and cost data from the Orders table.
+    Filter data from the orders table based on orders with a quantity greater than 2. 
 
 
