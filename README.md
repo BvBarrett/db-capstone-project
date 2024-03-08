@@ -76,8 +76,6 @@ Learning Objectives
 
 #### Task 1
 
-Task 1
-
 In the first task, Little Lemon need you to create a virtual table called OrdersView that focuses on OrderID, Quantity and Cost columns within the Orders table for all orders with a quantity greater than 2. 
 
 Here’s some guidance around completing this task: 
