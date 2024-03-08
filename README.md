@@ -46,6 +46,24 @@ Learning Objectives:
 
 ## About 
 The capstone project serves as a culmination of the specialization [meta-database-engineer](https://www.coursera.org/professional-certificates/meta-database-engineer#courses), by demonstrating the skills that constitutes designing and composing a database solution and the relevant technologies.
+
+Little Lemon project will be evaluated according to the following grading criteria: 
+
+    Was the GitHub repo successfully created?
+
+    Is the appropriate project found in the GitHub repo?
+
+    Does it include an appropriate ER diagram showing the connections between the tables?
+
+    Was the GetMaxQuantity() procedure properly implemented?
+
+    Was the ManageBooking() procedure properly implemented?
+
+    Was the UpdateBooking() procedure properly implemented?
+
+    Was the AddBooking() procedure properly implemented?
+
+    Was the CancelBooking() procedure properly implemented?
     
 
 
