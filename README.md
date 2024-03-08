@@ -5,6 +5,7 @@
   <h2 align="center">Meta Database Engineer Capstone</h2>
 </div>
 
+# About 
 The capstone project serves as a culmination of the specialization [meta-database-engineer](https://www.coursera.org/professional-certificates/meta-database-engineer#courses), by demonstrating the skills that constitutes designing and composing a database solution and the relevant technologies.
 
 ## Acknowledgement  
