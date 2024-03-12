@@ -11,13 +11,14 @@ In this capstone project, I will be demonstrating the skills that constitutes de
 
 ## Tools 
 
-```Python
+```SQL
     • MySQL(Workbench) - For developing and setup of the databsase.
     • Python - Setting up a client and interacting with the database.
     • Tableau - Visualization of the data.
 ```
 ## Capstone Project Criteria
 
+```Python
     • Create a database that holds the data.
     • Connect to the database using a Python client.
     • Create a procedure using Python to react to changes in the data.
@@ -27,6 +28,7 @@ In this capstone project, I will be demonstrating the skills that constitutes de
     • The data model you produced in MySQL Workbench.
     • The SQL file of the Little Lemon database schema.
     • The workbook that includes all worksheets and dashboards.
+```
 
  <h2> Happy Learning! <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="45">&nbsp;</h2></summary> 
 
