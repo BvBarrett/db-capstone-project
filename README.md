@@ -10,6 +10,9 @@
 
 In this capstone project, I will be demonstrating the skills that constitutes designing and composing a database solution and the relevant technologies. This project will design a data solution for the Little Lemon Restaurant. it involves setting upset a database, incorporating `Stored Procedures`, A way to interact with the client and the use of visualization to communicate the data. Little Lemon is a family-owned Mediterranean restaurant, primarily with the aim of satisfying its customers with great food. 
 
+`Refer to the link for more information about the Meta Database Engineer courses.` 
+[Meta Database Engineer Professional Certificate](https://www.coursera.org/professional-certificates/meta-database-engineer#courses)
+
 ## Tools 
 
     • MySQL(Workbench) - For developing and setup of the databsase.
@@ -36,9 +39,7 @@ In this capstone project, I will be demonstrating the skills that constitutes de
 
 `Refer to Folders` for completed tasks and outputs. 
 
-`Refer to the link for more information about the Meta Database Engineer courses` 
 
-[Meta Database Engineer Professional Certificate](https://www.coursera.org/professional-certificates/meta-database-engineer#courses)
 
     
 
