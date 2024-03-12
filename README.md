@@ -28,7 +28,7 @@ In this capstone project, I will be demonstrating the skills that constitutes de
     • The SQL file of the Little Lemon database schema.
     • The workbook that includes all worksheets and dashboards.
 
-## Happy Learning!
+## Happy Learning! @@ text in purple (and bold)@@
 
 `Refer to Folders` for completed tasks and outputs. 
 
