@@ -32,6 +32,7 @@ In this capstone project, I will be demonstrating the skills that constitutes de
 `Refer to Folders` for completed tasks and outputs. 
 
 [Meta Database Engineer Specialization][2]
+
 [2]: https://www.coursera.org/professional-certificates/meta-database-engineer?
 
 
