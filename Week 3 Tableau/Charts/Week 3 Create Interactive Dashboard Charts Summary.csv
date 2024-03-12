@@ -1,0 +1,78 @@
+Week 3
+
+Exercise: Create interactive dashboard for sales and profits
+Scenario 
+
+In the previous exercise, you prepared Little Lemon’s data to perform data analytics. Little Lemon now need you to filter the data, analyze it and create visual charts in the form of an interactive dashboard to help them understand their business performance, so they can increase their sales and profits.
+
+Prerequisites 
+
+    Tableau already installed on your machine. 
+    Little Lemon DB Excel Sheet should be downloaded on your machine.
+
+Task instructions
+
+Complete the following tasks to help Little Lemon create interactive dashboards to display their sales and profits.
+
+Task 1
+
+In the first task, you need to create a bar chart that shows customers sales and filter data based on sales with at least $70.
+
+Here’s some guidance for completing this task:
+
+    Drag and drop relevant fields from the data pane into the shelves section.
+    Use a suitable colour scheme.
+    Filter sales based on sales >= $70.
+    Name the chart Customers sales.
+
+If you roll over a bar, the customer names and sale figures should be displayed as shown below.
+Example of interactive chart
+
+Task 2
+
+In the second task, you need to create a line chart to show the sales trend from 2019 to 2022. 
+
+Here’s some guidance for completing this task:
+
+    Drag and drop relevant fields from the data pane.
+    Use a suitable colour scheme.
+    Filter data to exclude 2023.
+    Name the chart Profit chart.
+
+Your chart should show the trend of sales from 2019 to 2022 only as shown below. 
+Example of interactive chart
+
+Task 3
+
+In the third task, you need to create a Bubble chart of sales for all customers. The chart should show the names of all customers. Once you roll over a bubble, the chart should show the name, profit and sale.
+
+Here’s some guidance for completing this task:
+
+    Drag and drop relevant fields from the data pane.
+    Use a suitable colour scheme.
+    Name the chart Sales Bubble Chart.
+
+Your chart should show the following Bubble chart.
+Example of Sales Bubble chart
+
+Task 4
+
+In this task, you need to compare the sales of the three different cuisines sold at Little Lemon. Create a Bar chart that shows the sales of the Turkish, Italian and Greek cuisines.
+
+You need to display sales data for 2020, 2021, and 2022 only. Each bar should display the profit of each cuisine. 
+
+Here’s some guidance for completing this task:
+
+    Drag and drop relevant fields from the data pane.
+    Use a suitable color scheme.
+    Name the worksheet Cuisine Sales and Profits.
+    Sort data in descending order by the sum of the sale.
+
+Your chart should be similar to the following example:
+Example of Cuisine Sales and Profit chart
+
+Task 5
+
+In this final task, you need to create an interactive dashboard that combines the Bar chart called Customers sales and the Sales Bubble Chart. Once you click a bar, and roll over the related bubble, the name, sales and profit figures should be displayed in the Bubble chart as shown below.
+Example of interactive dashboard
+
