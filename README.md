@@ -26,7 +26,7 @@ The capstone project serves as a culmination of the specialization [meta-databas
     • The SQL file of the Little Lemon database schema.
     • The workbook that includes all worksheets and dashboards.
 
- <h2>My Happy Learning! <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="45">&nbsp;</h2></summary> 
+ <h2> Happy Learning! <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="45">&nbsp;</h2></summary> 
 
 `Refer to Folders` for completed tasks and outputs. 
 
