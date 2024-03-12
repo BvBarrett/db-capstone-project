@@ -27,9 +27,9 @@ In this capstone project, I will be demonstrating the skills that constitutes de
     • The data model you produced in MySQL Workbench.
     • The SQL file of the Little Lemon database schema.
     • The workbook that includes all worksheets and dashboards.
-
+```css
 ## Happy Learning!
-
+```
 `Refer to Folders` for completed tasks and outputs. 
 
 
