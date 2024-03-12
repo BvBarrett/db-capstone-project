@@ -10,7 +10,7 @@
 In this capstone project, I will be demonstrating the skills that constitutes designing and composing a database solution and the relevant technologies. This project will design a data solution for the Little Lemon Restaurant. it involves setting upset a database, incorporating `Stored Procedures`, A way to interact with the client and the use of visualization to communicate the data. Little Lemon is a family-owned Mediterranean restaurant, primarily with the aim of satisfying its customers with great food. 
 
 ## Tools 
-```Python
+```CSS
     • MySQL(Workbench) - For developing and setup of the databsase.
     • Python - Setting up a client and interacting with the database.
     • Tableau - Visualization of the data.
