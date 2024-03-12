@@ -14,8 +14,6 @@ In this capstone project, I will be demonstrating the skills that constitutes de
     • MySQL(Workbench) - For developing and setup of the databsase.
     • Python - Setting up a client and interacting with the database.
     • Tableau - Visualization of the data.
-<a href="https://github.com/search?q=user%3ABvBarrett+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ABvBarrett+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 
 ## Capstone Project Criteria
 
