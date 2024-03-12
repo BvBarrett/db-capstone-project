@@ -11,10 +11,11 @@ In this capstone project, I will be demonstrating the skills that constitutes de
 
 ## Tools 
 
+```Python
     • MySQL(Workbench) - For developing and setup of the databsase.
     • Python - Setting up a client and interacting with the database.
     • Tableau - Visualization of the data.
-
+```
 ## Capstone Project Criteria
 
     • Create a database that holds the data.
