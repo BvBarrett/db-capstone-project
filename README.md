@@ -31,7 +31,7 @@ In this capstone project, I will be demonstrating the skills that constitutes de
     • The workbook that includes all worksheets and dashboards.
 
 
- <h2> Happy Learning!
+## Happy Learning!
 
 `Refer to Folders` for completed tasks and outputs. 
 
