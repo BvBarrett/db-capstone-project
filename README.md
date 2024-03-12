@@ -6,6 +6,7 @@
 
 
 ## About
+[Meta Database Engineer Specialization][2]
 
 In this capstone project, I will be demonstrating the skills that constitutes designing and composing a database solution and the relevant technologies. This project will design a data solution for the Little Lemon Restaurant. it involves setting upset a database, incorporating `Stored Procedures`, A way to interact with the client and the use of visualization to communicate the data.
 
@@ -30,8 +31,6 @@ In this capstone project, I will be demonstrating the skills that constitutes de
 #### Happy Learning!
 
 `Refer to Folders` for completed tasks and outputs. 
-
-[Meta Database Engineer Specialization][2]
 
 [2]: https://www.coursera.org/professional-certificates/meta-database-engineer?
 
